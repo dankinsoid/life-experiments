@@ -1,0 +1,11 @@
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Pluto notebook backups
+**/*jl~
+
+# System
+.DS_Store
